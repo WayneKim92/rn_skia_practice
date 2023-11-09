@@ -1,5 +1,5 @@
 import React from 'react';
-import {CanvasContextExample} from './src/CanvasContextExample';
+import {CanvasItsFineContextExample} from './src/CanvaseItsFineContextExample';
 
 /*
   Note
@@ -11,7 +11,7 @@ import {CanvasContextExample} from './src/CanvasContextExample';
  */
 
 const App = () => {
-  return <CanvasContextExample />;
+  return <CanvasItsFineContextExample />;
 };
 
 export default App;
