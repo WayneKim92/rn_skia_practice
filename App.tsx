@@ -1,5 +1,5 @@
 import React from 'react';
-import {ShapesExample} from './src/ShapesExample';
+import {ImageSVGExample} from './src/ImagesExample';
 
 /*
   Note
@@ -12,7 +12,7 @@ import {ShapesExample} from './src/ShapesExample';
  */
 
 const App = () => {
-  return <ShapesExample />;
+  return <ImageSVGExample />;
 };
 
 export default App;
