@@ -9,6 +9,7 @@ import {TextExample} from './src/TextExample';
     - React context의 변경으로 재렌더링이 필요한 경우, Skia Canvas 내에서 React Context를 사용해야함. (다른 방법도 있음)
   - react 18만 필요하고 new-archtecture는 필요하지 않음. 그러므로 쓸 수 있다!
   - 색상을 지정하지 않으면 부모로 부터 상속 받음.
+  - skia는 그림자를 뜻하는 그리스 단어 이다.
  */
 
 const App = () => {
