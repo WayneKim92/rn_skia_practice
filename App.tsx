@@ -1,5 +1,5 @@
 import React from 'react';
-import {GroupExample} from './src/GroupExample';
+import {ShapesExample} from './src/ShapesExample';
 
 /*
   Note
@@ -12,7 +12,7 @@ import {GroupExample} from './src/GroupExample';
  */
 
 const App = () => {
-  return <GroupExample />;
+  return <ShapesExample />;
 };
 
 export default App;
