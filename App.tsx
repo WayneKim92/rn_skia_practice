@@ -1,5 +1,5 @@
 import React from 'react';
-import PaintingExample from './src/PaintingExample';
+import {GroupExample} from './src/GroupExample';
 
 /*
   Note
@@ -12,7 +12,7 @@ import PaintingExample from './src/PaintingExample';
  */
 
 const App = () => {
-  return <PaintingExample />;
+  return <GroupExample />;
 };
 
 export default App;
