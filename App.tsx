@@ -1,5 +1,5 @@
 import React from 'react';
-import {ImageSVGExample} from './src/ImagesExample';
+import {TextExample} from './src/TextExample';
 
 /*
   Note
@@ -12,7 +12,7 @@ import {ImageSVGExample} from './src/ImagesExample';
  */
 
 const App = () => {
-  return <ImageSVGExample />;
+  return <TextExample />;
 };
 
 export default App;
